@@ -1,4 +1,2 @@
 # dotfiles
-dotfiles cua tnhannn   
-git clone https://github.com/tnhannnn/dotfiles.git and then copy the nvim folder to your ~/.config/ to see an awful neovim configuration ( but can expand to anything you want) 
-
+This is my dotfiles for some popular applications, you can yoink everything you want .I haven't config much cause I haven't had a lot of experience.
